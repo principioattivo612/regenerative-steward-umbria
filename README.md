@@ -24,7 +24,7 @@ Questo repository documenta il primo protocollo osservazionale per la valutazion
 > Il livello **Full** è richiesto per qualsiasi uso commerciale del marchio.
 
 ## 📄 Protocollo ufficiale
-→ [Regenerative_Steward_Protocol_v1.0.pdf](Regenerative_Steward_Protocol_v1.0.pdf)
+→ [Regenerative_Steward_Protocol_v1.0.pdf](Regenerative Steward Protocol – v1.0.pdf)
 
 ## 🔍 Verifica e trasparenza
 La conformità è verificabile tramite archivio fotografico condiviso (es. GitHub, Google Drive), report visivo mensile o accesso diretto al sito (su invito).  
